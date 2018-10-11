@@ -1,4 +1,4 @@
-# face-recognition-microsoftApiClient
+# face-recognition-microsoft-api-client
 Spring Boot Application to face recognition. Client of Microsoft Face Api
 
 To use override application.properties file with you key from:
